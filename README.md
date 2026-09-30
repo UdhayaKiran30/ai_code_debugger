@@ -612,7 +612,7 @@ B.E. Computer Science and Engineering — 2026
 
 GitHub: https://github.com/UdhayaKiran30
 
-LinkedIn: [[Add your LinkedIn profile]](https://www.linkedin.com/in/udhayakiran/)
+LinkedIn: https://www.linkedin.com/in/udhayakiran/
 
 ---
 
